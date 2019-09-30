@@ -1,0 +1,11 @@
+For mac users:
+  For Speech to text:
+    On OS X, install PortAudio using Homebrew: brew install portaudio.  
+    Then, install PyAudio using Pip: pip3 install pyaudio.
+    Then you have to install SpeechRecognition using: pip3 install SpeechRecognition.
+    Since I am using an google API install: pip3 install google-api-python-client
+  
+  For Google search:
+    Install library by: pip3 insatll google.
+ 
+*Note: pip3 for python3.
