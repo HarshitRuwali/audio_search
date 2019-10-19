@@ -6,6 +6,6 @@ For mac users:
     Since I am using an google API install: pip3 install google-api-python-client
   
   For Google search:
-    Install library by: pip3 insatll google.
+    Install library by: pip3 install google.
  
 *Note: pip3 for python3.
