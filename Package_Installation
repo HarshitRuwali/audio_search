@@ -1,10 +1,15 @@
 For mac users:
   Open terminal and follow the steps.
     On OS X, install PortAudio using Homebrew: brew install portaudio.  
-    Then, install PyAudio using Pip: pip3 install pyaudio.
+    Then, install PyAudio using Pip: pip3 install PyAudio.
     Install Urllib to run threads by using: pip install urllib3
     Then you have to install SpeechRecognition using: pip3 install SpeechRecognition.
+    
     Since I am using an google API install: pip3 install google-api-python-client
+                                            pip install search-google 
+                                            pip install google-search
+                                            pip3 install google
+    Since Google API needs an extension to install another module: pip3 install beautifulsoup4
   
   For Google search:
     Install library by: pip3 install google.
