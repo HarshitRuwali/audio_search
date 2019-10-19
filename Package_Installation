@@ -1,7 +1,8 @@
 For mac users:
-  For Speech to text:
+  Open terminal and follow the steps.
     On OS X, install PortAudio using Homebrew: brew install portaudio.  
     Then, install PyAudio using Pip: pip3 install pyaudio.
+    Install Urllib to run threads by using: pip install urllib3
     Then you have to install SpeechRecognition using: pip3 install SpeechRecognition.
     Since I am using an google API install: pip3 install google-api-python-client
   
